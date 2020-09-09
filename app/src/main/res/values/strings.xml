@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">Brain Trainer</string>
     <string name="stringTimer">30s</string>
+    <string name="home">Welcome to Brain Trainer!\n\n
+    Instructions:\n
+    You have 30 seconds to solve as many math problems as you can!\n\n
+    Good luck!</string>
+    <string name="start">Start!</string>
     <string name="ans1">00</string>
     <string name="ans2">00</string>
     <string name="ans3">00</string>
@@ -8,7 +13,6 @@
     <string name="math">Solve\n\n0 + 0
     </string>
     <string name="score">0/0</string>
-    <string name="done">Done!\n\nYou got 0 out of 0 problems correct!\nNice!
-    </string>
+    <string name="done"></string>
     <string name="tryAgain">Try Again!</string>
 </resources>
